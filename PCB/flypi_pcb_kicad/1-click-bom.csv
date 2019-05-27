@@ -1,5 +1,5 @@
 References,Qty,Description,Manufacturer,MPN,Manufacturer_1,MPN_2,Manufacturer_3,MPN_4,Manufacturer_5,MPN_6,Manufacturer_7,MPN_8,Digikey,Mouser,RS,Newark,Farnell
-U5;,2,Headers 15 pin 1 row,Samtec inc,SSA-115-S-T ,Samtec Inc,SSW-115-01-T-S ,Amphenol,75915-315LF,,,,,SAM1122-15-ND ,200-SSA115ST,859-9390,11P7739,2779587
+U5;,2,Headers 15 pin 1 row,Samtec inc,SSA-115-S-T ,Samtec Inc,SSW-115-01-T-S ,Amphenol,75915-315LF,,,,,SAM1122-15-ND ,200-SSW11501TS ,859-9390,11P7739,2779587
 U4;,1,L298N Multiwatt 15 Vertical,STMicroelectronics,L298N,,,,,,,,,497-1395-5-ND,511L298,636384,32M1527,403295
 U1; U2,2,LM2596 5v,ITO-220,Texas Instruments,Texas Instruments,LM2596T-5.0/NOPB,,,,,,,LM2596T-5.0/NOPB-ND,926LM2596T5.0/NOPB,5333743,97K3256,1150103
 R7; R8; R9,3,Resistor 220  ohm 250mW through-hole,Yageo,MFR-25FBF52-220R,TE Connectivity,CBT25J220R,TE Connectivity,CFR16J220R,Ohmite,OD221JE,Stackpole Electronics,CF14JT220R,CF14JT220RCT-ND,279CBT25J220R,8066376,21R0186,1265068
